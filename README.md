@@ -8,12 +8,19 @@ This Model Has Achieved 98 % Accuracy By Training And Testing the Model.
 This Is the First And Basic version Of this Project.
 Project workflow :
 Download data - [https://github.com/prathyyyyy/Forest-Fire-Detection/blob/main/setup/setup_datasets.py]
+
 Data Analysis - [https://github.com/prathyyyyy/Forest-Fire-Detection/tree/main/Data%20And%20Performance%20Analysis]
+
 Neural Network - [https://github.com/prathyyyyy/Forest-Fire-Detection/blob/main/custom_model/cladoh.py]
+
 Pretrained Model -[https://github.com/prathyyyyy/Forest-Fire-Detection/blob/main/setup/naive_approach.py]
+
 Transfer learning and Data Augmentation - [https://github.com/prathyyyyy/Forest-Fire-Detection/blob/main/transfer_learning.py]
+
 Video Fire detection - [https://github.com/prathyyyyy/Forest-Fire-Detection/blob/main/video_annotation.py]
+
 Project Launcher - [https://github.com/prathyyyyy/Forest-Fire-Detection/commit/5452385558a01cc2cda4ec4d0f1febfbb0811f2a]
+
 Major Libraries and framework :
 Tensorflow and keras - This is an AI and Deep Learning library used in this project for creating neural network and pretrained model.
 Numpy , pandas and matplotlib - This is used for data analysis , though for deep learning project it is not mandatory ,I have used just to give quick insight about data used in this project.
